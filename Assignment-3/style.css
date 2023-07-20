@@ -1,0 +1,26 @@
+.gp{
+    height: 520px;
+    width:360px;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin:150px auto;
+}
+.r{
+    width:100%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.sh{
+    padding: 10px;
+}
+button{
+    color:rgb(92, 53, 218);
+    background-color: white;
+    border:1px solid black;
+    border-radius: 2px;
+    margin: 5px;
+    padding:8px;
+}
+p{
+    color:gray;
+}
